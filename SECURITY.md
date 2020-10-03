@@ -4,15 +4,7 @@
 
 ⚠ PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY!
 
-If you have found a security issue, please send the details to security@banzaicloud.com and don't disclose it publicly until we can provide a fix for it.
-We take security reports very seriously and intend to respond in a timely manner.
-
-You can use the PGP key of the security team to encrypt your message:
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mQENBF1RcLABCAC6hLRf7LIfE+g467174Eeu91zMiN2wuUPBwO833IyDXd/ge2ll
+If you have found a security issue, please send the details to security@banzaicloud.com and don't disclose it publicly until we can prov
 SRTMCfFWirlUhNvojlPlXsG0svdISPhSqFE6Uo6c1LztowHz50fLHQ+8mq9/5hCB
 5HSUlel6dZ8XBTilMubTwsjca8tDu4bREDzsf5/QHbvHmkiwZAXJC+MUDBtzqBlB
 +IzXglA/v0hH4UxI18ScNKoFxp9oI3JFZZdLRoGSV978THrCDk+GirwUnYj/oNZX
